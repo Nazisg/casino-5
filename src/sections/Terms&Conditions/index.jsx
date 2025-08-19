@@ -1,8 +1,8 @@
 export default function TermsAndConditions() {
   return (
-    <section id="terms" className="px-4 py-10 lg:py-15">
+    <section id="terms" className="px-4 py-6 lg:py-12">
       <div className="max-w-7xl mx-auto flex flex-col">
-        <p className="text-[24px] lg:text-[48px] font-bold glow-text text-center text-[#F6A410]">Terms & Conditions</p>
+        <p className="text-[24px] lg:text-[48px] font-bold glow-text text-center text-[#8A2BE2]">Terms & Conditions</p>
         <ol className="list-decimal list-inside space-y-6">
           <li>
             <span>Acceptance of Terms</span>
@@ -188,24 +188,24 @@ export default function TermsAndConditions() {
 
 
       <div className="max-w-7xl mx-auto lg:text-center mt-5 lg:mt-10">
-        <h2 className="text-[24px] lg:text-[48px] font-bold glow-text text-center text-[#F6A410]">Discover <span className="glow-text">Premium</span>  Casinos</h2>
+        <h2 className="text-[24px] lg:text-[48px] font-bold glow-text text-center text-[#8A2BE2]">Discover <span className="glow-text">Premium</span>  Casinos</h2>
         <p className="text-[#000] opacity-40 text-[16px] lg:text-[20px] text-center">Expert reviews, exclusive bonuses, and trusted recommendations for the <span className="glow-text">UK's top-rated</span> online casinos</p>
         <div className="lg:w-[60%] mx-auto">
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4 lg:gap-8 pt-5 lg:pt-10 justify-items-center">
-            <div className="flex flex-col rouneded-[8px] gap-2 w-full items-center cursor-pointer group bg-white/5 backdrop-blur-sm border border-[#F6A410] rounded-2xl p-4 text-center transition-all duration-300 hover:scale-105">
-              <h3 className="font-bold text-[#F6A410] lg:text-[20px]">50M+</h3>
+            <div className="flex flex-col rouneded-[8px] gap-2 w-full items-center cursor-pointer group bg-white/5 backdrop-blur-sm border border-[#8A2BE2] rounded-2xl p-4 text-center transition-all duration-300 hover:scale-105">
+              <h3 className="font-bold text-[#8A2BE2] lg:text-[20px]">50M+</h3>
               <p className="text-[14px]">Total Winnings Paid</p>
             </div>
-            <div className="flex flex-col rouneded-[8px] gap-2 w-full items-center cursor-pointer group bg-white/5 backdrop-blur-sm border border-[#F6A410] rounded-2xl p-4 text-center transition-all duration-300 hover:scale-105">
-              <h3 className="font-bold text-[#F6A410] lg:text-[20px]">500K+</h3>
+            <div className="flex flex-col rouneded-[8px] gap-2 w-full items-center cursor-pointer group bg-white/5 backdrop-blur-sm border border-[#8A2BE2] rounded-2xl p-4 text-center transition-all duration-300 hover:scale-105">
+              <h3 className="font-bold text-[#8A2BE2] lg:text-[20px]">500K+</h3>
               <p className="text-[14px]">Happy Players</p>
             </div>
-            <div className="flex flex-col rouneded-[8px] gap-2 w-full items-center cursor-pointer group bg-white/5 backdrop-blur-sm border border-[#F6A410] rounded-2xl p-4 text-center transition-all duration-300 hover:scale-105">
-              <h3 className="font-bold text-[#F6A410] lg:text-[20px]">5000+</h3>
+            <div className="flex flex-col rouneded-[8px] gap-2 w-full items-center cursor-pointer group bg-white/5 backdrop-blur-sm border border-[#8A2BE2] rounded-2xl p-4 text-center transition-all duration-300 hover:scale-105">
+              <h3 className="font-bold text-[#8A2BE2] lg:text-[20px]">5000+</h3>
               <p className="text-[14px]">Casino Games</p>
             </div>
-            <div className="flex flex-col rouneded-[8px] gap-2 w-full items-center cursor-pointer group bg-white/5 backdrop-blur-sm border border-[#F6A410] rounded-2xl p-4 text-center transition-all duration-300 hover:scale-105">
-              <h3 className="font-bold text-[#F6A410] lg:text-[20px]">24/7</h3>
+            <div className="flex flex-col rouneded-[8px] gap-2 w-full items-center cursor-pointer group bg-white/5 backdrop-blur-sm border border-[#8A2BE2] rounded-2xl p-4 text-center transition-all duration-300 hover:scale-105">
+              <h3 className="font-bold text-[#8A2BE2] lg:text-[20px]">24/7</h3>
               <p className="text-[14px]">Expert Support</p>
             </div>
 
