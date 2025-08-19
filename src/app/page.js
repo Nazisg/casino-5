@@ -8,14 +8,10 @@ import Banner from "@/sections/Banner";
 export default function Home() {
   return (
     <>
-      <Header />
-      <main className="pt-15">
         <Banner/>
         <TopCasinos />
         <AboutUs />
-        <TermsAndConditions />
-      </main>
-      <Footer/>
+        {/* <TermsAndConditions /> */}
     </>
   );
 }

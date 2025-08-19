@@ -13,6 +13,20 @@ export default function Card({ name, icon, rating, minDeposit, methods, bonus, l
                     />
                 </Link>
             </div>
+            <div className="flex gap-2 items-center justify-center">
+             <div
+
+                className="text-[#992cff] px-1 xl:py-1 xl:px-2 rounded-[12px] border border-[#992cff] text-[10px] xl:text-[12px]"
+            >
+                UK licensed
+            </div>
+            <div
+
+                className="text-[#992cff] px-1 xl:py-1 xl:px-2 rounded-[12px] border border-[#992cff] text-[10px] xl:text-[12px]"
+            >
+                T&C only 18+
+            </div>
+           </div>
          <div className="flex flex-row lg:flex-col gap-2 items-center justify-around">
                {/* Expert Rating */}
             <div className=" flex flex-col gap-2 items-center justify-center">
